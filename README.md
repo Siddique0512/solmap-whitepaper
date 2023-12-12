@@ -36,13 +36,6 @@ Validity and scarcity are enforced by the Solmaps program:
 - First-inscription-is-valid rule  
 - Slots must be valid at time of minting. As long as the slot like `232000999` exists, one can mint `232000.solmap`
 
-# Development
-
-```
-anchor build
-anchor test
-```
-
 # Future Possibilities 
 
 - Metaverse games
